@@ -1,0 +1,8 @@
+Git branching stretagy  - Git flow, github flow, trunk based development
+
+Git Tags - to define the commit willwebt wich Release. 
+
+Release versioning - Calender versioning, Scemanting versioning
+
+Pull request validation - (Code Quality check (sonar cube or veracode), Tags, Proper code review with Required Reviewers, Aritifact provisioning)
+
